@@ -24,8 +24,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/long12310225/pitaya/v2/conn/message"
-	"github.com/long12310225/pitaya/v2/constants"
+	"github.com/long12310225/pitayaN/v2/conn/message"
+	"github.com/long12310225/pitayaN/v2/constants"
 	"github.com/stretchr/testify/assert"
 )
 

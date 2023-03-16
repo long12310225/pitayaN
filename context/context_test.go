@@ -28,8 +28,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/long12310225/pitaya/v2/constants"
-	"github.com/long12310225/pitaya/v2/helpers"
+	"github.com/long12310225/pitayaN/v2/constants"
+	"github.com/long12310225/pitayaN/v2/helpers"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

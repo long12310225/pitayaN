@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/long12310225/pitaya/v2/config"
-	"github.com/long12310225/pitaya/v2/constants"
-	"github.com/long12310225/pitaya/v2/logger"
+	"github.com/long12310225/pitayaN/v2/config"
+	"github.com/long12310225/pitayaN/v2/constants"
+	"github.com/long12310225/pitayaN/v2/logger"
 	"go.etcd.io/etcd/api/v3/mvccpb"
 	clientv3 "go.etcd.io/etcd/client/v3"
 	"go.etcd.io/etcd/client/v3/namespace"

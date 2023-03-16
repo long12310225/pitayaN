@@ -26,9 +26,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/long12310225/pitaya/v2/config"
-	"github.com/long12310225/pitaya/v2/constants"
-	"github.com/long12310225/pitaya/v2/helpers"
+	"github.com/long12310225/pitayaN/v2/config"
+	"github.com/long12310225/pitayaN/v2/constants"
+	"github.com/long12310225/pitayaN/v2/helpers"
 	"github.com/stretchr/testify/assert"
 	clientv3 "go.etcd.io/etcd/client/v3"
 )

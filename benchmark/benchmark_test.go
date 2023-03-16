@@ -25,7 +25,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/long12310225/pitaya/v2/client"
+	"github.com/long12310225/pitayaN/v2/client"
 	"github.com/sirupsen/logrus"
 )
 

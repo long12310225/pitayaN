@@ -25,9 +25,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/long12310225/pitaya/v2/conn/packet"
-	"github.com/long12310225/pitaya/v2/constants"
-	"github.com/long12310225/pitaya/v2/helpers"
+	"github.com/long12310225/pitayaN/v2/conn/packet"
+	"github.com/long12310225/pitayaN/v2/constants"
+	"github.com/long12310225/pitayaN/v2/helpers"
 	"github.com/stretchr/testify/assert"
 )
 

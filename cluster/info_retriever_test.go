@@ -3,7 +3,7 @@ package cluster
 import (
 	"testing"
 
-	"github.com/long12310225/pitaya/v2/config"
+	"github.com/long12310225/pitayaN/v2/config"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 )

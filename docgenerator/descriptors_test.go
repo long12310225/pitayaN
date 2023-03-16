@@ -3,8 +3,8 @@ package docgenerator
 import (
 	"testing"
 
-	"github.com/long12310225/pitaya/v2/constants"
-	_ "github.com/long12310225/pitaya/v2/protos"
+	"github.com/long12310225/pitayaN/v2/constants"
+	_ "github.com/long12310225/pitayaN/v2/protos"
 	"github.com/stretchr/testify/assert"
 )
 

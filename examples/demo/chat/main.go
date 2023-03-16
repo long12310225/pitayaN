@@ -10,13 +10,13 @@ import (
 
 	"strings"
 
-	"github.com/long12310225/pitaya/v2"
-	"github.com/long12310225/pitaya/v2/acceptor"
-	"github.com/long12310225/pitaya/v2/component"
-	"github.com/long12310225/pitaya/v2/config"
-	"github.com/long12310225/pitaya/v2/groups"
-	"github.com/long12310225/pitaya/v2/logger"
-	"github.com/long12310225/pitaya/v2/timer"
+	pitaya "github.com/long12310225/pitayaN/v2"
+	"github.com/long12310225/pitayaN/v2/acceptor"
+	"github.com/long12310225/pitayaN/v2/component"
+	"github.com/long12310225/pitayaN/v2/config"
+	"github.com/long12310225/pitayaN/v2/groups"
+	"github.com/long12310225/pitayaN/v2/logger"
+	"github.com/long12310225/pitayaN/v2/timer"
 )
 
 type (

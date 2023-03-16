@@ -7,10 +7,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/long12310225/pitaya/v2"
-	"github.com/long12310225/pitaya/v2/component"
-	"github.com/long12310225/pitaya/v2/examples/demo/protos"
-	"github.com/long12310225/pitaya/v2/timer"
+	pitaya "github.com/long12310225/pitayaN/v2"
+	"github.com/long12310225/pitayaN/v2/component"
+	"github.com/long12310225/pitayaN/v2/examples/demo/protos"
+	"github.com/long12310225/pitayaN/v2/timer"
 )
 
 type (

@@ -21,8 +21,8 @@
 package logger
 
 import (
-	"github.com/long12310225/pitaya/v2/logger/interfaces"
-	logruswrapper "github.com/long12310225/pitaya/v2/logger/logrus"
+	"github.com/long12310225/pitayaN/v2/logger/interfaces"
+	logruswrapper "github.com/long12310225/pitayaN/v2/logger/logrus"
 	"github.com/sirupsen/logrus"
 )
 

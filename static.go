@@ -25,14 +25,14 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/long12310225/pitaya/v2/cluster"
-	"github.com/long12310225/pitaya/v2/component"
-	"github.com/long12310225/pitaya/v2/config"
-	"github.com/long12310225/pitaya/v2/interfaces"
-	"github.com/long12310225/pitaya/v2/metrics"
-	"github.com/long12310225/pitaya/v2/router"
-	"github.com/long12310225/pitaya/v2/session"
-	"github.com/long12310225/pitaya/v2/worker"
+	"github.com/long12310225/pitayaN/v2/cluster"
+	"github.com/long12310225/pitayaN/v2/component"
+	"github.com/long12310225/pitayaN/v2/config"
+	"github.com/long12310225/pitayaN/v2/interfaces"
+	"github.com/long12310225/pitayaN/v2/metrics"
+	"github.com/long12310225/pitayaN/v2/router"
+	"github.com/long12310225/pitayaN/v2/session"
+	"github.com/long12310225/pitayaN/v2/worker"
 	"github.com/spf13/viper"
 )
 

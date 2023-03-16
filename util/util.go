@@ -31,17 +31,17 @@ import (
 
 	"github.com/nats-io/nuid"
 
-	"github.com/long12310225/pitaya/v2/conn/message"
-	"github.com/long12310225/pitaya/v2/constants"
-	pcontext "github.com/long12310225/pitaya/v2/context"
-	e "github.com/long12310225/pitaya/v2/errors"
-	"github.com/long12310225/pitaya/v2/logger"
-	"github.com/long12310225/pitaya/v2/logger/interfaces"
-	"github.com/long12310225/pitaya/v2/protos"
-	"github.com/long12310225/pitaya/v2/serialize"
-	"github.com/long12310225/pitaya/v2/serialize/json"
-	"github.com/long12310225/pitaya/v2/serialize/protobuf"
-	"github.com/long12310225/pitaya/v2/tracing"
+	"github.com/long12310225/pitayaN/v2/conn/message"
+	"github.com/long12310225/pitayaN/v2/constants"
+	pcontext "github.com/long12310225/pitayaN/v2/context"
+	e "github.com/long12310225/pitayaN/v2/errors"
+	"github.com/long12310225/pitayaN/v2/logger"
+	"github.com/long12310225/pitayaN/v2/logger/interfaces"
+	"github.com/long12310225/pitayaN/v2/protos"
+	"github.com/long12310225/pitayaN/v2/serialize"
+	"github.com/long12310225/pitayaN/v2/serialize/json"
+	"github.com/long12310225/pitayaN/v2/serialize/protobuf"
+	"github.com/long12310225/pitayaN/v2/tracing"
 
 	opentracing "github.com/opentracing/opentracing-go"
 )

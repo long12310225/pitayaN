@@ -26,10 +26,10 @@ import (
 	"os"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/long12310225/pitaya/v2/config"
-	"github.com/long12310225/pitaya/v2/constants"
-	"github.com/long12310225/pitaya/v2/logger"
-	"github.com/long12310225/pitaya/v2/logger/interfaces"
+	"github.com/long12310225/pitayaN/v2/config"
+	"github.com/long12310225/pitayaN/v2/constants"
+	"github.com/long12310225/pitayaN/v2/logger"
+	"github.com/long12310225/pitayaN/v2/logger/interfaces"
 	workers "github.com/topfreegames/go-workers"
 )
 

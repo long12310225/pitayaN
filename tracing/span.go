@@ -23,9 +23,9 @@ package tracing
 import (
 	"context"
 
-	"github.com/long12310225/pitaya/v2/constants"
-	pcontext "github.com/long12310225/pitaya/v2/context"
-	"github.com/long12310225/pitaya/v2/logger"
+	"github.com/long12310225/pitayaN/v2/constants"
+	pcontext "github.com/long12310225/pitayaN/v2/context"
+	"github.com/long12310225/pitayaN/v2/logger"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 

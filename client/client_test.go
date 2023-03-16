@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/golang/mock/gomock"
-	"github.com/long12310225/pitaya/v2/conn/message"
-	"github.com/long12310225/pitaya/v2/helpers"
-	"github.com/long12310225/pitaya/v2/mocks"
+	"github.com/long12310225/pitayaN/v2/conn/message"
+	"github.com/long12310225/pitayaN/v2/helpers"
+	"github.com/long12310225/pitayaN/v2/mocks"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )

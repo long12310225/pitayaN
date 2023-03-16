@@ -8,16 +8,16 @@ import (
 
 	"strings"
 
-	"github.com/long12310225/pitaya/v2"
-	"github.com/long12310225/pitaya/v2/acceptor"
-	"github.com/long12310225/pitaya/v2/cluster"
-	"github.com/long12310225/pitaya/v2/component"
-	"github.com/long12310225/pitaya/v2/config"
-	"github.com/long12310225/pitaya/v2/constants"
-	"github.com/long12310225/pitaya/v2/examples/demo/cluster_grpc/services"
-	"github.com/long12310225/pitaya/v2/groups"
-	"github.com/long12310225/pitaya/v2/modules"
-	"github.com/long12310225/pitaya/v2/route"
+	pitaya "github.com/long12310225/pitayaN/v2"
+	"github.com/long12310225/pitayaN/v2/acceptor"
+	"github.com/long12310225/pitayaN/v2/cluster"
+	"github.com/long12310225/pitayaN/v2/component"
+	"github.com/long12310225/pitayaN/v2/config"
+	"github.com/long12310225/pitayaN/v2/constants"
+	"github.com/long12310225/pitayaN/v2/examples/demo/cluster_grpc/services"
+	"github.com/long12310225/pitayaN/v2/groups"
+	"github.com/long12310225/pitayaN/v2/modules"
+	"github.com/long12310225/pitayaN/v2/route"
 )
 
 var app pitaya.Pitaya

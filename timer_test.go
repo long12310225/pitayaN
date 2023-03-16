@@ -24,8 +24,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/long12310225/pitaya/v2/constants"
-	"github.com/long12310225/pitaya/v2/timer"
+	"github.com/long12310225/pitayaN/v2/constants"
+	"github.com/long12310225/pitayaN/v2/timer"
 	"github.com/stretchr/testify/assert"
 )
 

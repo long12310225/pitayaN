@@ -26,8 +26,8 @@ import (
 	"time"
 
 	"github.com/golang/mock/gomock"
-	"github.com/long12310225/pitaya/v2/metrics"
-	"github.com/long12310225/pitaya/v2/mocks"
+	"github.com/long12310225/pitayaN/v2/metrics"
+	"github.com/long12310225/pitayaN/v2/mocks"
 	"github.com/stretchr/testify/assert"
 )
 

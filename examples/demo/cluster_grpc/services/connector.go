@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/long12310225/pitaya/v2"
-	"github.com/long12310225/pitaya/v2/component"
-	"github.com/long12310225/pitaya/v2/examples/demo/protos"
+	"github.com/long12310225/pitayaN/v2/component"
+	"github.com/long12310225/pitayaN/v2/examples/demo/protos"
 )
 
 // ConnectorRemote is a remote that will receive rpc's

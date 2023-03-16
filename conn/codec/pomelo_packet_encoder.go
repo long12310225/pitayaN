@@ -21,7 +21,7 @@
 package codec
 
 import (
-	"github.com/long12310225/pitaya/v2/conn/packet"
+	"github.com/long12310225/pitayaN/v2/conn/packet"
 )
 
 // PomeloPacketEncoder struct

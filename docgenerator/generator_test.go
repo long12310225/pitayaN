@@ -25,8 +25,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/long12310225/pitaya/v2/component"
-	"github.com/long12310225/pitaya/v2/protos/test"
+	"github.com/long12310225/pitayaN/v2/component"
+	"github.com/long12310225/pitayaN/v2/protos/test"
 	"github.com/stretchr/testify/assert"
 )
 

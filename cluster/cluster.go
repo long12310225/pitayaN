@@ -23,15 +23,15 @@ package cluster
 import (
 	"context"
 
-	"github.com/long12310225/pitaya/v2/conn/message"
-	"github.com/long12310225/pitaya/v2/constants"
-	pcontext "github.com/long12310225/pitaya/v2/context"
-	"github.com/long12310225/pitaya/v2/interfaces"
-	"github.com/long12310225/pitaya/v2/logger"
-	"github.com/long12310225/pitaya/v2/protos"
-	"github.com/long12310225/pitaya/v2/route"
-	"github.com/long12310225/pitaya/v2/session"
-	"github.com/long12310225/pitaya/v2/tracing"
+	"github.com/long12310225/pitayaN/v2/conn/message"
+	"github.com/long12310225/pitayaN/v2/constants"
+	pcontext "github.com/long12310225/pitayaN/v2/context"
+	"github.com/long12310225/pitayaN/v2/interfaces"
+	"github.com/long12310225/pitayaN/v2/logger"
+	"github.com/long12310225/pitayaN/v2/protos"
+	"github.com/long12310225/pitayaN/v2/route"
+	"github.com/long12310225/pitayaN/v2/session"
+	"github.com/long12310225/pitayaN/v2/tracing"
 )
 
 // RPCServer interface

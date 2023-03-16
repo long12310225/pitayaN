@@ -23,8 +23,8 @@ package pitaya
 import (
 	"testing"
 
-	"github.com/long12310225/pitaya/v2/component"
-	"github.com/long12310225/pitaya/v2/config"
+	"github.com/long12310225/pitayaN/v2/component"
+	"github.com/long12310225/pitayaN/v2/config"
 	"github.com/stretchr/testify/assert"
 )
 

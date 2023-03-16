@@ -25,9 +25,9 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/long12310225/pitaya/v2/config"
-	"github.com/long12310225/pitaya/v2/constants"
-	"github.com/long12310225/pitaya/v2/session/mocks"
+	"github.com/long12310225/pitayaN/v2/config"
+	"github.com/long12310225/pitayaN/v2/constants"
+	"github.com/long12310225/pitayaN/v2/session/mocks"
 	"github.com/stretchr/testify/assert"
 )
 

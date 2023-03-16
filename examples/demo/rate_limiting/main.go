@@ -6,13 +6,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/long12310225/pitaya/v2"
-	"github.com/long12310225/pitaya/v2/acceptor"
-	"github.com/long12310225/pitaya/v2/acceptorwrapper"
-	"github.com/long12310225/pitaya/v2/component"
-	"github.com/long12310225/pitaya/v2/config"
-	"github.com/long12310225/pitaya/v2/examples/demo/rate_limiting/services"
-	"github.com/long12310225/pitaya/v2/metrics"
+	pitaya "github.com/long12310225/pitayaN/v2"
+	"github.com/long12310225/pitayaN/v2/acceptor"
+	"github.com/long12310225/pitayaN/v2/acceptorwrapper"
+	"github.com/long12310225/pitayaN/v2/component"
+	"github.com/long12310225/pitayaN/v2/config"
+	"github.com/long12310225/pitayaN/v2/examples/demo/rate_limiting/services"
+	"github.com/long12310225/pitayaN/v2/metrics"
 	"github.com/spf13/viper"
 )
 

@@ -26,12 +26,12 @@ import (
 
 	"github.com/golang/mock/gomock"
 	"github.com/google/uuid"
-	clustermocks "github.com/long12310225/pitaya/v2/cluster/mocks"
-	"github.com/long12310225/pitaya/v2/config"
-	"github.com/long12310225/pitaya/v2/constants"
-	"github.com/long12310225/pitaya/v2/protos"
-	serializemocks "github.com/long12310225/pitaya/v2/serialize/mocks"
-	sessionmocks "github.com/long12310225/pitaya/v2/session/mocks"
+	clustermocks "github.com/long12310225/pitayaN/v2/cluster/mocks"
+	"github.com/long12310225/pitayaN/v2/config"
+	"github.com/long12310225/pitayaN/v2/constants"
+	"github.com/long12310225/pitayaN/v2/protos"
+	serializemocks "github.com/long12310225/pitayaN/v2/serialize/mocks"
+	sessionmocks "github.com/long12310225/pitayaN/v2/session/mocks"
 	"github.com/stretchr/testify/assert"
 )
 

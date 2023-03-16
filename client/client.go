@@ -32,17 +32,17 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/long12310225/pitaya/v2/acceptor"
+	"github.com/long12310225/pitayaN/v2/acceptor"
 
 	"github.com/gorilla/websocket"
-	"github.com/long12310225/pitaya/v2"
-	"github.com/long12310225/pitaya/v2/conn/codec"
-	"github.com/long12310225/pitaya/v2/conn/message"
-	"github.com/long12310225/pitaya/v2/conn/packet"
-	"github.com/long12310225/pitaya/v2/logger"
-	logruswrapper "github.com/long12310225/pitaya/v2/logger/logrus"
-	"github.com/long12310225/pitaya/v2/session"
-	"github.com/long12310225/pitaya/v2/util/compression"
+	pitaya "github.com/long12310225/pitayaN/v2"
+	"github.com/long12310225/pitayaN/v2/conn/codec"
+	"github.com/long12310225/pitayaN/v2/conn/message"
+	"github.com/long12310225/pitayaN/v2/conn/packet"
+	"github.com/long12310225/pitayaN/v2/logger"
+	logruswrapper "github.com/long12310225/pitayaN/v2/logger/logrus"
+	"github.com/long12310225/pitayaN/v2/session"
+	"github.com/long12310225/pitayaN/v2/util/compression"
 	"github.com/sirupsen/logrus"
 )
 

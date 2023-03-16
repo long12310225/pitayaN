@@ -23,11 +23,11 @@ package metrics
 import (
 	"fmt"
 
-	"github.com/long12310225/pitaya/v2/constants"
+	"github.com/long12310225/pitayaN/v2/constants"
 
 	"github.com/DataDog/datadog-go/statsd"
-	"github.com/long12310225/pitaya/v2/config"
-	"github.com/long12310225/pitaya/v2/logger"
+	"github.com/long12310225/pitayaN/v2/config"
+	"github.com/long12310225/pitayaN/v2/logger"
 )
 
 // Client is the interface to required dogstatsd functions

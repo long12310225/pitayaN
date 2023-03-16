@@ -6,11 +6,11 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/long12310225/pitaya/v2/cluster"
-	"github.com/long12310225/pitaya/v2/cluster/mocks"
-	"github.com/long12310225/pitaya/v2/conn/message"
-	"github.com/long12310225/pitaya/v2/protos"
-	"github.com/long12310225/pitaya/v2/route"
+	"github.com/long12310225/pitayaN/v2/cluster"
+	"github.com/long12310225/pitayaN/v2/cluster/mocks"
+	"github.com/long12310225/pitayaN/v2/conn/message"
+	"github.com/long12310225/pitayaN/v2/protos"
+	"github.com/long12310225/pitayaN/v2/route"
 	"github.com/stretchr/testify/assert"
 )
 

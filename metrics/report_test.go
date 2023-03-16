@@ -28,10 +28,10 @@ import (
 
 	"github.com/golang/mock/gomock"
 	"github.com/google/uuid"
-	"github.com/long12310225/pitaya/v2/constants"
-	pcontext "github.com/long12310225/pitaya/v2/context"
-	e "github.com/long12310225/pitaya/v2/errors"
-	"github.com/long12310225/pitaya/v2/metrics/mocks"
+	"github.com/long12310225/pitayaN/v2/constants"
+	pcontext "github.com/long12310225/pitayaN/v2/context"
+	e "github.com/long12310225/pitayaN/v2/errors"
+	"github.com/long12310225/pitayaN/v2/metrics/mocks"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -6,9 +6,9 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
+	"github.com/long12310225/pitayaN/v2/worker/mocks"
 	"github.com/stretchr/testify/assert"
 	workers "github.com/topfreegames/go-workers"
-	"github.com/long12310225/pitaya/v2/worker/mocks"
 )
 
 type fakeProtoMessage struct {
