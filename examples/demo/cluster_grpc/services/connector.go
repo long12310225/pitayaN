@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/long12310225/pitaya/v2"
+	pitaya "github.com/long12310225/pitayaN/v2"
 	"github.com/long12310225/pitayaN/v2/component"
 	"github.com/long12310225/pitayaN/v2/examples/demo/protos"
 )
